@@ -1,0 +1,15 @@
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\bin\Debug\net6.0\c#Iniciantes.exe
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\bin\Debug\net6.0\c#Iniciantes.deps.json
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\bin\Debug\net6.0\c#Iniciantes.runtimeconfig.json
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\bin\Debug\net6.0\c#Iniciantes.dll
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\bin\Debug\net6.0\c#Iniciantes.pdb
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\obj\Debug\net6.0\c#Iniciantes.csproj.AssemblyReference.cache
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\obj\Debug\net6.0\c#Iniciantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\obj\Debug\net6.0\c#Iniciantes.AssemblyInfoInputs.cache
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\obj\Debug\net6.0\c#Iniciantes.AssemblyInfo.cs
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\obj\Debug\net6.0\c#Iniciantes.csproj.CoreCompileInputs.cache
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\obj\Debug\net6.0\c#Iniciantes.dll
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\obj\Debug\net6.0\refint\c#Iniciantes.dll
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\obj\Debug\net6.0\c#Iniciantes.pdb
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\obj\Debug\net6.0\c#Iniciantes.genruntimeconfig.cache
+C:\Users\fpont\OneDrive\Área de Trabalho\Felipe\c#Iniciantes\obj\Debug\net6.0\ref\c#Iniciantes.dll
